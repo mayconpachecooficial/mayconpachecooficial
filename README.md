@@ -1,9 +1,28 @@
-- 👋 Olá, sou Maycon Pacheco, com formação em Internet das Coisas, trago mais de cinco anos de experiência robusta em front-end, back-end e gerenciamento de banco de dados, demonstrando uma paixão contínua por inovação e a capacidade de implementar soluções tecnológicas avançadas.
+💻 Hello World! I'm Maycon Pacheco~
 
-- 👀 Estou interessado em uma posição que não apenas desafie minhas habilidades existentes, mas também ofereça oportunidades de crescimento profissional e aprendizado contínuo.
-- 🌱 Atualmente estou aprendendo Inglês para uma conversação melhor.
-- 💞️ Procuro colaborar em organizações que valorizam a inovação, a colaboração e o desenvolvimento profissional.
-- 📫 Como entrar em contato comigo pelo | Linkedin: https://www.linkedin.com/in/mayconpachecooficial | E-mail: mayconpachecooficial@gmail.com |
-- 😄 Habilidades: React | Ptyhon | SQL | NoSQL |
-- ⚡ Curiosidade: Adoro jogar videogame nas horas vagas.
+- 👋 With a background in the Internet of Things, I bring more than five years of solid experience in front-end, back-end and database management, demonstrating a continuous passion for innovation and the ability to implement advanced technological solutions.
+
+
+📖Front End Skills📖
+
+- ✔️ React.js
+- ✔️ Next.js
+- ✔️ Javascript
+- ✔️ Typescript
+- ✔️ CSS
+- ✔️ SASS
+- ✔️ HTML 
+
+📖Back End Skills📖
+
+- ✔️ Python
+- ✔️ Django
+- ✔️ Flask
+- ✔️ Node.js
+- ✔️ Express
+- ✔️ Fastify
+- ✔️ Sprite
+- ✔️ Relational DataBases (MySQL, Sqlite, PostgresSQL, ...)
+- ✔️ No Relational Databases (MongoDB, Firebase, ...)
+
 
