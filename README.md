@@ -5,7 +5,7 @@
 
 🔧My skills🔧
 
-🧑‍🎓I'm always learning new technologies...
+🧑‍🎓I'm always learning new technologies...🧑‍💻
 
 📖Front End Skills📖
 
