@@ -7,7 +7,7 @@
 
 🧑‍🎓I'm always learning new technologies...🧑‍💻
 
-📖Front End Skills📖
+📖FRONT-END SKILLS📖
 
 - ✔️ React.js
 - ✔️ Next.js
@@ -17,7 +17,7 @@
 - ✔️ SASS
 - ✔️ HTML 
 
-📖Back End Skills📖
+📖BACK-END SKILLS📖
 
 - ✔️ Python
 - ✔️ Django
@@ -29,4 +29,42 @@
 - ✔️ Relational DataBases (MySQL, Sqlite, PostgresSQL, ...)
 - ✔️ No Relational Databases (MongoDB, Firebase, ...)
 
+
+📖APIs SKILLS📖
+
+🔵LOGIN TO SOCIAL MEDIA🔵
+
+- ✔️ Facebook
+- ✔️ Twitter
+- ✔️ Whatsapp
+- ✔️ GitHub
+
+
+🔵MAPS🔵
+
+- ✔️ OpenStreetMap
+
+
+🔵ADRESSES🔵
+
+- ✔️ OnWater
+
+
+🔵STORAGE🔵
+
+- ✔️ Google Cloud
+- ✔️ One Drive
+- ✔️ Google Drive
+
+
+🔵PAYMENTS🔵
+
+- ✔️ Sprite
+
+
+🔵FAMILIARITY🔵
+
+- ✔️ Docker
+- ✔️ bash
+- ✔️ Linux
 
