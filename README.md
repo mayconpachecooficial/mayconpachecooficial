@@ -62,6 +62,6 @@
 🔵FAMILIARITY🔵
 
 - ✔️ Docker
-- ✔️ bash
-- ✔️ Linux
+
+
 
