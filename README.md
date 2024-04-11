@@ -10,11 +10,9 @@
 📖FRONT-END SKILLS📖
 
 - ✔️ React.js
-- ✔️ Next.js
 - ✔️ Javascript
 - ✔️ Typescript
 - ✔️ CSS
-- ✔️ SASS
 - ✔️ HTML 
 
 📖BACK-END SKILLS📖
@@ -25,7 +23,6 @@
 - ✔️ Node.js
 - ✔️ Express
 - ✔️ Fastify
-- ✔️ Sprite
 - ✔️ Relational DataBases (MySQL, Sqlite, PostgresSQL, ...)
 - ✔️ No Relational Databases (MongoDB, Firebase, ...)
 
@@ -59,7 +56,7 @@
 
 🔵PAYMENTS🔵
 
-- ✔️ Sprite
+- ✔️ Stripe
 
 
 🔵FAMILIARITY🔵
