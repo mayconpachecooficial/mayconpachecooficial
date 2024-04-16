@@ -2,6 +2,8 @@
 
 - 👋 With a background in the Internet of Things, I bring more than five years of solid experience in front-end, back-end and database management, demonstrating a continuous passion for innovation and the ability to implement advanced technological solutions.
 
+- Click and see the portfolio on my website:
+(https://bit.ly/meuu-portifolioo)  
 
 🔧My skills🔧
 
