@@ -10,7 +10,7 @@
 - ![API](https://img.icons8.com/color/48/000000/api.png) **APIs**
 - ![AI](https://img.icons8.com/color/48/000000/artificial-intelligence.png) **Artificial Intelligence**
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
+- ![PostgreSQL](https://img.icons8.com/ios-filled/50/4479A1/postgresql.png) **PostgreSQL**
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) **Firebase**
 
