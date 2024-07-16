@@ -9,8 +9,10 @@
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 - ![API](https://img.icons8.com/color/48/000000/api.png) **APIs**
 - ![AI](https://img.icons8.com/color/48/000000/artificial-intelligence.png) **Artificial Intelligence**
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **Relational Databases (MySQL, PostgreSQL, ...)**
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **NoSQL Databases (MongoDB, Firebase, ...)**
+- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
+- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
+- ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) **Firebase**
 
 ## 🔵 Familiarity 🔵
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
@@ -19,4 +21,3 @@
 - ![Google Cloud](https://img.icons8.com/color/48/000000/google-cloud.png) **Google Cloud**
 - ![Google Colab](https://img.icons8.com/color/48/000000/google-colab.png) **Google Colab**
 
-<!-- Optionally add more content below -->
