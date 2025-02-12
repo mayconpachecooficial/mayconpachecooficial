@@ -3,7 +3,7 @@
 👋 “Software Developer (Vue.js, React.js, Node.js, Python, Typescript, SQL, NoSQL, Artificial Intelligence) with more than 5 years of experience.”
 
 ## 🔧 My skills 🔧
-- ![Vue](https://img.icons8.com/color/48/000000/vue.png) **Vue.js**
+- ![Vue](https://img.icons8.com/color/48/000000/vuejs.png) **Vue.js**
 - ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
 - ![Typescript](https://img.icons8.com/color/48/000000/typescript.png) **Typescript**
