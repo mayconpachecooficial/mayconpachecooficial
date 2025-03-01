@@ -6,7 +6,7 @@
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 - ![API](https://img.icons8.com/color/48/000000/api.png) **APIs**
 - ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
-- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) **PostgreSQL**
+- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg) **PostgreSQL**
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) **Firebase**
 
