@@ -1,6 +1,6 @@
 # 💻 Hello World! I'm Maycon Pacheco~
 
-👋 “Software Developer | Python, SQL, NoSQL, API REST.”
+👋 “Desenvolvedor Python | Automação, Web Scraping, Bots e APIs”
 
 ## 🔧 My skills 🔧
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
